@@ -6,9 +6,13 @@ import {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'center',
+    backgroundColor: '#EE7777',
+  },
+  containerList: {
+    backgroundColor: '#EE7777',
     alignItems: 'center',
-    backgroundColor: '#F5FCFF',
+    justifyContent: 'center',
+    paddingBottom: 20,
   },
 });
 
